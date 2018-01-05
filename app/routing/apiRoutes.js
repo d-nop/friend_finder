@@ -21,9 +21,15 @@ module.exports = function(app) {
     // ---------------------------------------------------------------------------
 
     app.post("/api/friends", function(req, res) {
-        // When submit button is pushed, the person data is added tto the friendsList in json format.
+        // When submit button is pushed, the person data is added to the friendsList in json format.
         friendsList.push(req.body);
         res.json();
+    // ---------------------------------------------------------------------------
+        // PSEUDO CODE
+    //-----------------------------------------------------------------------------
+        /*Logic that should compare the difference between current user's scores against those from other users, 
+        question by question. Push the match to the survey.html page into the modal div */
     });
+
 
 };
