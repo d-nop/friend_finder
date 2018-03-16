@@ -3,7 +3,7 @@
 var friendArray = [
 {
 name: "Darth Vadar",
-photo: "https://www.independent.ie/regionals/kerryman/news/article34250758.ece/BINARY/2015-12-02_ker_15039481_I1.JPG",
+photo: "https://www.pexels.com/photo/angry-beard-blur-close-up-542282/",
 scores: [
 "5",
 "1",
@@ -19,7 +19,7 @@ scores: [
 },
 {
 name: "Jacob Deming",
-photo: "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
+photo: "https://www.pexels.com/photo/face-facial-hair-fine-looking-guy-614810/",
 scores: [
 "4",
 "2",
@@ -67,7 +67,7 @@ scores: [
 },
 {
 name: "Lou Ritter",
-photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkDAAAAJDhhZTI5NTk2LWQzZjUtNDJjZi1hMTM2LTQ3ZjNmYjE0YmY2NA.jpg",
+photo: "https://www.pexels.com/photo/woman-wearing-coat-762020/",
 scores: [
 "4",
 "3",
@@ -99,7 +99,7 @@ scores: [
 },
 {
 name: "newby mcgee",
-photo: "http://dreamstop.com/wp-content/uploads/2016/08/llama-dreams.jpg",
+photo: "https://www.pexels.com/photo/adult-beautiful-blond-casual-355164/",
 scores: [
 "3",
 "3",
@@ -146,8 +146,8 @@ scores: [
 ]
 },
 {
-name: "Joe",
-photo: "https://www.pexels.com/photo/woman-on-rock-platform-viewing-city-196667/",
+name: "Joelyn Graham",
+photo: "https://www.pexels.com/photo/portrait-photo-of-woman-718978/",
 scores: [
 "5",
 "1",
@@ -163,7 +163,7 @@ scores: [
 },
 {
 name: "Greg",
-photo: "http://fabriccreative.com/portfolio/photo-grace-face",
+photo: "https://www.pexels.com/photo/adult-business-businessman-close-up-428339/",
 scores: [
 "1",
 "2",
@@ -178,8 +178,8 @@ scores: [
 ]
 },
 {
-name: "John Smith",
-photo: "https://www.biography.com/.image/t_share/MTIwNjA4NjMzOTc0MTk1NzI0/john-smith-9486928-1-402.jpg",
+name: "Sara Miller",
+photo: "https://www.pexels.com/photo/attractive-beauty-blond-cute-301290/",
 scores: [
 "3",
 "3",
